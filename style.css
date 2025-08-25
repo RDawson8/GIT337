@@ -1,0 +1,12 @@
+:root {
+    --dark-green: #166212;
+    --dark-gray: #222;
+
+    --body-fonts: 'Sunflower', 'Trebuchet MS', sans-serif
+}
+
+h1 {
+    color: #166212;
+    font-weight: bold;
+    padding-left: 50%;
+}
