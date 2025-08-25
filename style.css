@@ -8,5 +8,7 @@
 h1 {
     color: #166212;
     font-weight: bold;
-    padding-left: 50%;
+    padding-left: 44%;
+    border-color: var(--dark-gray);
+    font-family: 'Sunflower', 'Trebuchet MS', sans-serif
 }
